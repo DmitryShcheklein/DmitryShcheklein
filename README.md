@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+- В веб-разработке с 2016 года 👨‍💻
+- Frontend / Backend 🖥
+- JS 💛/ TS💙
+- E-com 🛒
+- Слепая печать Ru/En ⌨️
+- Спорт 🏋🏻‍♂️🚲
+
 <!--
-**DmitryShcheklein/DmitryShcheklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DmitrySheklein/DmitrySheklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
